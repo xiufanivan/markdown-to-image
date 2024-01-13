@@ -1,0 +1,2 @@
+imgkit~=1.2.3
+pypandoc~=1.12
